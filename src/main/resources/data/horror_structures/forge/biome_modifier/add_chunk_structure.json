@@ -1,0 +1,5 @@
+{
+  "type": "horror_structures:every_biome",
+  "feature": "horror_structures:chunk_structure",
+  "terrain_feature": "horror_structures:terrain_preparation"
+}

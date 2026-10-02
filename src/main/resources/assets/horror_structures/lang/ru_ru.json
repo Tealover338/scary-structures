@@ -1,0 +1,15 @@
+{
+  "item.horror_structures.structure_wand": "Жезл структур",
+  "message.horror_structures.first_position": "Первая точка: %s, %s, %s",
+  "message.horror_structures.second_position": "Вторая точка: %s, %s, %s",
+  "message.horror_structures.player_only": "Эту команду может использовать только игрок.",
+  "message.horror_structures.incomplete_selection": "Сначала отметь жезлом обе границы.",
+  "message.horror_structures.invalid_name": "Недопустимое название структуры: %s",
+  "message.horror_structures.too_large": "Область слишком большая (%s блоков; максимум — 50000000).",
+  "message.horror_structures.save_failed": "Не удалось сохранить структуру %s.",
+  "message.horror_structures.saved": "Структура %s сохранена (%sx%sx%s, %s блоков).",
+  "message.horror_structures.not_found": "Структура %s не найдена.",
+  "message.horror_structures.place_failed": "Не удалось установить структуру %s.",
+  "message.horror_structures.placed": "Структура %s установлена в %s, %s, %s.",
+  "message.horror_structures.located": "%s находится в [%s, %s, %s], расстояние — %s блоков."
+}

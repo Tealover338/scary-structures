@@ -1,0 +1,15 @@
+{
+  "item.horror_structures.structure_wand": "Structure Wand",
+  "message.horror_structures.first_position": "First position: %s, %s, %s",
+  "message.horror_structures.second_position": "Second position: %s, %s, %s",
+  "message.horror_structures.player_only": "This command can only be used by a player.",
+  "message.horror_structures.incomplete_selection": "Select both corners with the Structure Wand first.",
+  "message.horror_structures.invalid_name": "Invalid structure name: %s",
+  "message.horror_structures.too_large": "Selection is too large (%s blocks; maximum is 50000000).",
+  "message.horror_structures.save_failed": "Could not save structure %s.",
+  "message.horror_structures.saved": "Saved %s (%sx%sx%s, %s blocks).",
+  "message.horror_structures.not_found": "Structure %s was not found.",
+  "message.horror_structures.place_failed": "Could not place structure %s.",
+  "message.horror_structures.placed": "Placed %s at %s, %s, %s.",
+  "message.horror_structures.located": "%s is at [%s, %s, %s], %s blocks away."
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "abandoned_park",
+    "size": [
+      230,
+      106,
+      220
+    ],
+    "grass_level": 3,
+    "grass_levels": [
+      [
+        3,
+        4679
+      ],
+      [
+        2,
+        3977
+      ],
+      [
+        0,
+        3547
+      ],
+      [
+        1,
+        3398
+      ],
+      [
+        4,
+        2204
+      ],
+      [
+        5,
+        668
+      ]
+    ],
+    "blocks": 201608,
+    "pieces": 210,
+    "entities": 3
+  },
+  {
+    "name": "bunker",
+    "size": [
+      249,
+      152,
+      182
+    ],
+    "grass_level": 139,
+    "grass_levels": [
+      [
+        139,
+        1235
+      ],
+      [
+        138,
+        931
+      ],
+      [
+        137,
+        804
+      ],
+      [
+        117,
+        784
+      ],
+      [
+        126,
+        749
+      ],
+      [
+        133,
+        738
+      ]
+    ],
+    "blocks": 5817718,
+    "pieces": 192,
+    "entities": 0
+  },
+  {
+    "name": "circus",
+    "size": [
+      104,
+      87,
+      122
+    ],
+    "grass_level": 0,
+    "grass_levels": [
+      [
+        0,
+        7037
+      ]
+    ],
+    "blocks": 60252,
+    "pieces": 56,
+    "entities": 1
+  },
+  {
+    "name": "labyrinth",
+    "size": [
+      111,
+      24,
+      111
+    ],
+    "grass_level": 0,
+    "grass_levels": [
+      [
+        0,
+        2540
+      ]
+    ],
+    "blocks": 60794,
+    "pieces": 49,
+    "entities": 0
+  },
+  {
+    "name": "planes",
+    "size": [
+      227,
+      51,
+      223
+    ],
+    "grass_level": 0,
+    "grass_levels": [
+      [
+        0,
+        21802
+      ],
+      [
+        2,
+        8517
+      ],
+      [
+        1,
+        8199
+      ],
+      [
+        3,
+        6139
+      ],
+      [
+        4,
+        2260
+      ],
+      [
+        5,
+        575
+      ]
+    ],
+    "blocks": 144368,
+    "pieces": 210,
+    "entities": 0
+  }
+]
